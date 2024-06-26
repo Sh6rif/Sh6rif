@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Sherif Alaa</h1>
-<h2 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Wait+for+More+Project)](https://git.io/typing-svg)</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Wait+for+More+Project)](https://git.io/typing-svg)
 
 <h3 align="left">🚀 About Me</h3>
 <p align="left">Hello! I'm Sherif Alaa, Graduated from the Faculty of Computer and Artificial Intelligence with a major in Computer Science</p>
